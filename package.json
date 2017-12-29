@@ -1,0 +1,22 @@
+{
+  "name": "purejavascriptstudy",
+  "version": "1.0.0",
+  "description": "javascript study project",
+  "main": "Reservation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kishe89/PureJavascriptStudy.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "kishe89",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kishe89/PureJavascriptStudy/issues"
+  },
+  "homepage": "https://github.com/kishe89/PureJavascriptStudy#readme"
+}
